@@ -37,7 +37,6 @@ Retail profitability depends on effective inventory and vendor management. This 
 
 ## Key Visualizations
 
-> *(Ensure these images are saved in a `visuals/` or `output/` folder and embedded here once committed)*
 
 - Sales vs. Gross Profit by Vendor
 - Inventory Turnover Distribution
